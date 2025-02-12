@@ -70,11 +70,27 @@ p,input, button{
 .username{
     height: 50px;
     background: transparent;
-
+    padding-left: 20px;
+    color: rgba(96, 96, 96, 0.804);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 380px;
 
 }
 .pass{
     margin-top: 20px;
     background: transparent;
     height: 50px;
+    padding-left: 20px;
+    color: rgba(96, 96, 96, 0.804);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 380px;
+    
+}
+.log_in{
+    color: rgba(96, 96, 96, 0.804);
+    font-size: 25px;
 }
