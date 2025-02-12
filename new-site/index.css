@@ -53,15 +53,28 @@ p,input, button{
 
 }
 .log_cont{
-    /* margin-top: 10px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
     /* margin-bottom: 50px; */
 }
 
-.log_in{
-    
+
+.input_cont{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+
+}
+.username{
+    height: 50px;
+    background: transparent;
 
 
 }
-.input_cont{
-
+.pass{
+    margin-top: 20px;
+    background: transparent;
+    height: 50px;
 }
